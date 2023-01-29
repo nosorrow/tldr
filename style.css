@@ -14,7 +14,10 @@ body {
     max-width: 50%; margin: 0 auto
 }
 
-
 .bold {
     font-weight: bold;
+}
+
+.p-10 {
+    padding: 3rem;
 }
