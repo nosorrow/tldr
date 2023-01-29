@@ -1,15 +1,12 @@
 body {
-    color: red;
+    color: #00f533;
 }
 
 .bgr {
-    background-color: aqua;
+    background-color: #cbd5e1;
+
 }
 
 .w-p {
     color: blue;
-}
-
-.center {
-    max-width: 50%; margin: 0 auto
 }
