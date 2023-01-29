@@ -13,3 +13,7 @@ body {
 .center {
     max-width: 50%; margin: 0 auto
 }
+
+.p-10 {
+    padding: 3rem;
+}
