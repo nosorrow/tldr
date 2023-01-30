@@ -35,11 +35,13 @@ body {
     border: solid 1px #564c4c;
 }
 
-.alert {
+.alert-success {
+    font-size: 1.1rem;
+    font-weight: bold;
     max-width: 35%;
     margin: 0 auto;
-    color: rgb(99, 11, 11);
+    color: rgb(6, 98, 24);
     padding: 2em;
-    border: solid 1px #500808;
-    background-color: rgb(255, 207, 207); 
+    border: solid 1px #084b15;
+    background-color: rgb(162, 231, 180);
 }
