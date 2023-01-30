@@ -26,11 +26,3 @@ body {
     font-size: 3rem;
     color: black;
 }
-
-.card {
-    max-width: 35%;
-    margin: 0 auto;
-    color: black;
-    padding: 2em;
-    border: solid 1px #564c4c;
-}
