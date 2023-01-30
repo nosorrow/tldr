@@ -34,3 +34,12 @@ body {
     padding: 2em;
     border: solid 1px #564c4c;
 }
+
+.alert {
+    max-width: 35%;
+    margin: 0 auto;
+    color: rgb(99, 11, 11);
+    padding: 2em;
+    border: solid 1px #500808;
+    background-color: rgb(255, 207, 207); 
+}
